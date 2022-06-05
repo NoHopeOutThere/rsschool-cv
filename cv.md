@@ -32,7 +32,7 @@ Education
 About me
 ----------------------------------------
 
-* I speak:
+I speak:
 
 * English (C1)
 * Spanish (B2)
