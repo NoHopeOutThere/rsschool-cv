@@ -3,9 +3,9 @@ Nadezhda Marchenko
 ============
 
 ------------------- ----------------------------
-Contact me:
-**Telegram**: @nohopeoutthere
-**Discord**: Nohopeoutthere
+Contact me:  
+**Telegram**: @nohopeoutthere  
+**Discord**: Nohopeoutthere  
 ------------------- ----------------------------
 
 Experience
