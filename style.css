@@ -8,18 +8,24 @@ html {
 
 body {
     display: flex;
+    max-width: 1440px;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
     font-family: 'Roboto', sans-serif;
+    min-height: 100%;
+    margin: auto;
 }
 
 .container {
     max-width: 1440px;
     margin: 0 auto;
+    align-items: center;
   }
 
 .nav-list {
     display: flex;
+    max-width: 1440px;
     justify-content: flex-end;
     align-items: center;
     list-style: none;
@@ -43,8 +49,10 @@ body {
 
 .main-container {
     display: flex;
+    max-width: 1440px;
     flex-wrap: wrap;
     justify-content: space-around;
+    align-items: center;
     background-color:rgb(197, 215, 233);
   }
 
@@ -52,6 +60,7 @@ body {
     width: 50%;
     padding-left: 40px;
     padding-right: 40px;
+
   }
 
   @media (max-width: 768px) {
@@ -71,6 +80,10 @@ body {
     align-items: center;
     list-style: none;
     }
+
+.foot {
+    margin: 40px;
+}
 
 h1 {
     font-size: 300%;
